@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+body{
+	
+	font-family: 'Gugi', cursive;
+
+	height: 100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* Makes image cover all the available space in the screen
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;*/
+}
+ 
+
+p{
+	/*
+	font-family: 'Merriweather', serif;
+	font-family: 'Titillium Web', sans-serif;*/
+	font-family: 'Gaegu', cursive;
+}
+
+
+.bgImage{
+	background-size: 100%;
+	background-color: blue;
+}
+
+.wrapper{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button{
+	background-color: white;
+	border: none;
+	border-radius: 20px; 
+}
+
+#intro { 
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* Makes image cover all the available space in the screen*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
